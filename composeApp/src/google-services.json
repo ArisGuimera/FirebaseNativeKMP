@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978844205487",
+    "project_id": "fir-kmptest-bbb95",
+    "storage_bucket": "fir-kmptest-bbb95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978844205487:android:2177ac37c042b50eba6f5a",
+        "android_client_info": {
+          "package_name": "com.aristidevs.kmpfirebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvwixc0MFLd7LUcE7EQPMLIX5rgGioFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

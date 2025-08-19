@@ -1,0 +1,7 @@
+platform :ios, '18.2'
+use_frameworks! :linkage => :static
+inhibit_all_warnings!
+
+target 'iosApp' do
+  pod 'composeApp', :path => '../composeApp'
+end

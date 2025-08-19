@@ -1,7 +1,5 @@
 # FIREBASE en Kotlin MULTIPLATFORM - Curso KMP y Firebase desde CERO.
 
-## Aprende a PROGRAMAR aplicaciones MULTIPLATAFORMA para ANDROID y iOS con KMP
-
 <p align="center">
 <a href="https://youtu.be/IKG1eV2SetA"><img src="img/kmp_firebase.webp" style="height: 75%; width:75%;"/></center></a></p>
 
@@ -14,6 +12,8 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">  
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">  
 </p>
+
+## Aprende a PROGRAMAR aplicaciones MULTIPLATAFORMA para ANDROID y iOS con KMP
 
 ## 👨‍💻 Autor
 
